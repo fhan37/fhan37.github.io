@@ -1,0 +1,23 @@
+h1 {
+  font-size: 73px;
+  margin-bottom: 30px;
+}
+
+p { 
+  font-family: sans-serif;
+}
+
+.job {
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 40px;
+	margin-bottom: 40px;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+ul {
+	list-style: square;
+	padding-left: 40px;
+}
